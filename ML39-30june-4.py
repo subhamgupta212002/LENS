@@ -83,7 +83,7 @@ with tab3:
         st.dataframe(df_review)
 
 with tab4:
-    st.image('D:/download.jpeg')
+    st.image('download.jpeg')
 
 st.sidebar.image('D:/robot.webp')
 with st.sidebar.expander('ℹ️ About us'):
