@@ -85,7 +85,7 @@ with tab3:
 with tab4:
     st.image('download.jpeg')
 
-st.sidebar.image('D:/robot.webp')
+st.sidebar.image('robot.webp')
 with st.sidebar.expander('ℹ️ About us'):
     st.write('We are a group of students trying to understand the concept of NLP')
     st.write('''Welcome to 🔍 LENS eXpert (NLP Suits) — your all-in-one Natural Language Processing toolkit designed to make text analysis easy, fast, and smart!
@@ -110,5 +110,4 @@ with st.sidebar.expander('🌐 Contact'):
     st.write('📧 guptasubham@797gmail.com')
 
 with st.sidebar.expander('Help'):
-    st.video('D:/music/bhojpuri/New folder/#Video___सईया_मिलल_लडिकइयाँ___#Pawan_Singh___Saiya_Milal_Ladkaiya___#Shilpi_Raj___New_Song_2025(720p).mp4')
-    st.audio('D:/music/bhojpuri/Holiya_Mein_Ghare_Na_Aeele_[_New_Holi_Video_Song_2014_]_Lifafa_Mein_Abeer_-_Pawan_Singh(256k).mp3')
+    st.write('subham')
